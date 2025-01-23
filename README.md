@@ -44,4 +44,10 @@ Neste portfólio, apliquei conceitos importantes como:
 
 ---
 
+## 🔗 Visualização
+
+- [Portfólio](https://portfolio-rho-indol-72.vercel.app/index.html)
+
+---
+
 Este portfólio está em constante atualização, refletindo minha jornada de aprendizado e evolução como desenvolvedora front-end. Fique à vontade para explorar e entrar em contato!
